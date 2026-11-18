@@ -26,7 +26,7 @@ If fewer than 8 teams remain registered after the extended window, the event wil
 - **Server Nodes**: Hangzhou, Hong Kong
 
 | Date | Item | 
-|---|---|---|
+|---|---|
 | Jan 3 | Round‑of‑16 | 
 | Jan 4 | Quarter‑finals (Round‑of‑8) Top 2 secure qualification for LAN Playoffs | 
 
@@ -34,7 +34,7 @@ If fewer than 8 teams remain registered after the extended window, the event wil
 - 4‑team single‑elimination bracket; all matches are Best‑of‑3 (BO3)
 
 | Date | Item | 
-|---|---|---|
+|---|---|
 | Jan 7 | Arrival Day | 
 | Jan 8 | Media Day & Setup | 
 | Jan 9 | Semi‑finals | 
