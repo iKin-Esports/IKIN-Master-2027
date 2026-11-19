@@ -79,3 +79,5 @@ The same organization is not permitted to submit two or more teams for this tour
 ### VRS Core Roster Rule
 Registered teams must field the core roster featured in the official December 2026 Global VRS rankings for seeding and VRS points.
 
+### iKin Banned
+Player can not submit in team to play if he was been banned by iKin Esports.
