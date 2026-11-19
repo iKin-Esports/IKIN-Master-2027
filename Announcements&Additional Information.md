@@ -7,7 +7,7 @@
 - **TO**: iKin Esports
 - **Visa Region**: Mainland China
 - **VRS Tier**: Tier 2, Open‑registration tournament (open to teams from all global regions)
-- **Registration Fee**: **$300 USD**
+- **Registration Fee**: **$200 USD**
 - **Registration Window**: December 13 ‑ December 21, 2026
 
 > The registration link will be published on December 13th via iKin Github and iKin Web.
