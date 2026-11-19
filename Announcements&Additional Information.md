@@ -30,7 +30,7 @@ If fewer than 4 teams remain registered after the extended window, the event wil
 | Jan 3 | Round‑of‑16 | 
 | Jan 4 | Round‑of‑8 | 
 
-> Round-of-8 matchs winner advance to LAN Playoffs
+> Round-of-8 matchs winner advance to LAN Finals.
 
 ### LAN Finals (Offline, January 2026)
 - 4‑team single‑elimination bracket; all matches are Best‑of‑3 (BO3)
