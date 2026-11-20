@@ -2,7 +2,7 @@
 
 ## Event Dates
 - **Online Play‑In**: January 3 ‑ January 4, 2027
-- **LAN Finals**: January 9 ‑ January 10, 2027
+- **LAN Finals**: January 16 ‑ January 17, 2027
 
 - **TO**: iKin Esports
 - **Visa Region**: Mainland China
@@ -37,10 +37,10 @@ If fewer than 4 teams remain registered after the registration window, the event
 
 | Date | Item | 
 |---|---|
-| Jan 7 | Arrival Day | 
-| Jan 8 | Media Day & Setup | 
-| Jan 9 | Semi‑finals | 
-| Jan 10 | Grand Final | 
+| Jan 14 | Arrival Day | 
+| Jan 15 | Media Day & Setup | 
+| Jan 16 | Semi‑finals | 
+| Jan 17 | Grand Final | 
 
 ## Prize Pool
 | Place | Payout |
